@@ -1,0 +1,4 @@
+batchmail
+=========
+
+batch mail send
