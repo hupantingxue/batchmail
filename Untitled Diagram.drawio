@@ -1,20 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T09:36:54.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="aMjd68G59cZRnuLGt_Rd" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T09:37:15.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="MzYXY0bW068mHa8_8zUK" version="14.9.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nfx_Me2qF4n1uGSIvwWf-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfx_Me2qF4n1uGSIvwWf-114" target="nfx_Me2qF4n1uGSIvwWf-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nfx_Me2qF4n1uGSIvwWf-114" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_normal;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfx_Me2qF4n1uGSIvwWf-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfx_Me2qF4n1uGSIvwWf-115" target="nfx_Me2qF4n1uGSIvwWf-116">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nfx_Me2qF4n1uGSIvwWf-115" value="Conn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="235" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nfx_Me2qF4n1uGSIvwWf-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfx_Me2qF4n1uGSIvwWf-116" target="nfx_Me2qF4n1uGSIvwWf-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nfx_Me2qF4n1uGSIvwWf-116" value="gw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="235" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nfx_Me2qF4n1uGSIvwWf-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfx_Me2qF4n1uGSIvwWf-117" target="nfx_Me2qF4n1uGSIvwWf-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nfx_Me2qF4n1uGSIvwWf-117" value="chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="235" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nfx_Me2qF4n1uGSIvwWf-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nfx_Me2qF4n1uGSIvwWf-118" target="nfx_Me2qF4n1uGSIvwWf-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nfx_Me2qF4n1uGSIvwWf-118" value="android&lt;br&gt;push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="235" width="70" height="50" as="geometry" />
